@@ -3,6 +3,7 @@ set -euo pipefail
 
 KEYBOARDS=(
   "imprint/imprint_letters_only"
+  "imprint/imprint_letters_only_full_bottom_row"
   "imprint/imprint_number_row"
   "imprint/imprint_number_row_full_bottom_row"
   "imprint/imprint_function_row"
